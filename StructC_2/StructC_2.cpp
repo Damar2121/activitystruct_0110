@@ -23,3 +23,10 @@ int main() {
 	cin >> mhs.alamat.desa;
 	cout << "\t nama Kota = ";
 	cin >> mhs.alamat.kota;
+
+	cout << "Umur Mahsiswa = ";
+	cin >> mhs.umur;
+
+	cout << endl;
+	cout << "\n NIM = " << mhs.nim;
+	cout << "\n Nama = " << mhs.nama;
