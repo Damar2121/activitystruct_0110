@@ -7,3 +7,5 @@ struct mahasiswa {
 	string alamat;
 	int umur;
 };
+
+int main() 
